@@ -1,0 +1,3 @@
+alaa,ali,100,90,80
+mohammed,moussa,20,10,70
+ahmed,abdullah,10,11,100
